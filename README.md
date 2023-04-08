@@ -18,7 +18,7 @@ If you have something cool to share or something you would do differently, let m
 
 ## Non-goals
 
-* Learn python
+* Become a python master
 * Performance
 * Accurate models
 
