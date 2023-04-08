@@ -9,6 +9,11 @@ In here you will find a "mini-library" for creating simple MLPs (Multi Layer Per
 * ReLU, Sigmoid
 * Quadratic Cost
 
+## Goals
+
+* Have fun (enjoy the process) :sunglasses:
+* Get a loose grasp on what makes Neural Networks tick.
+
 ## Non-goals
 
 * Learn python
@@ -19,7 +24,7 @@ In here you will find a "mini-library" for creating simple MLPs (Multi Layer Per
 
 Dear everyone, 
 
-If you you have something cool to share or something you would do differently, let me know, I would love to hear it. :blush:
+If you have something cool to share or something you would do differently, let me know, I would love to hear it. :blush:
 
 Dear recruiter, 
     
