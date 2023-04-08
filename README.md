@@ -22,7 +22,7 @@ If you have something cool to share or something you would do differently, let m
 * Performance
 * Accurate models
 
-### Footnote to recruiters 
+### Disclaimer
  
 This is not necessarily representative on how I would build or make decisions for production applications/solutions. I do these tiny projects for personal enjoyment and to scratch my itchy curious brain, using the little free time I have. 
 
